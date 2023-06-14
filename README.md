@@ -30,7 +30,7 @@ and an open source API to get the city temperature of the user's choice accordin
 
 
 ## Demo
-![](https://github.com/ngalinos95/Pokedex/blob/main/pokemon.gif)
+![](https://github.com/ngalinos95/iOS-GoodWeather/blob/main/goodweather.gif)
 
 
 
